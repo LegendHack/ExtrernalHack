@@ -9,3 +9,5 @@ I am not responsible for any Vac bans or Game bans that happen as a result of th
 The hack is updated every week and every time csgo updates
 
 Current version 1.0.0
+
+Thank you for downloading
